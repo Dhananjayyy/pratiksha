@@ -1,0 +1,4 @@
+[build]
+  base = "next-cms"
+  command = "npm run export"
+  publish = "out"
