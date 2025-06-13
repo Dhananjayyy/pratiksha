@@ -1,22 +1,22 @@
 ---
-title: My Projects
-subtitle: Exploring the intersection of research and innovation
+title: My Music
+subtitle: Releases, singles, and albums that tell my story
 projectList:
-  - title: Environmental Monitoring System
-    description: Designed and implemented a low-cost environmental monitoring system for tracking air quality in urban areas
-    image: img/project1.jpg
-    link: https://example.com/project1
-  - title: Sustainable Energy Research
-    description: Conducted research on efficient solar energy storage solutions
-    image: img/project2.jpg
-    link: https://example.com/project2
-  - title: Community Eco-Workshop Series
-    description: Developed and led workshops on sustainable living practices for local communities
-    image: img/project3.jpg
-    link: https://example.com/project3
+  - title: Echoes of Dawn
+    description: My debut EP featuring five original songs exploring themes of new beginnings and self-discovery
+    image: img/album1.jpg
+    link: https://musicstreaming.example.com/pratiksha/echosofdawn
+  - title: Midnight Reverie
+    description: A soulful single that captures the quiet introspection of late-night thoughts
+    image: img/album2.jpg
+    link: https://musicstreaming.example.com/pratiksha/midnightreverie
+  - title: Café Memories
+    description: An acoustic collection inspired by my performances at various cafés, featuring live recordings
+    image: img/album3.jpg
+    link: https://musicstreaming.example.com/pratiksha/cafememories
 ---
-## Research and Innovation
+## My Discography
 
-At Techknowgreen Research Laboratory, I focus on developing sustainable solutions to environmental challenges. My work combines rigorous scientific methodology with creative problem-solving approaches.
+Music is how I process life's experiences and connect with others. Each song I create is a chapter of my story, capturing moments, emotions, and reflections that resonate with listeners who might be experiencing similar journeys.
 
-I believe that research should ultimately benefit communities and help create a more sustainable future. The projects showcased here represent some of my efforts in this direction.
+My sound has been described as intimate and authentic, with vocals that convey emotion and lyrics that paint vivid pictures. I draw inspiration from everyday moments, relationships, and the beautiful complexity of human emotions.
