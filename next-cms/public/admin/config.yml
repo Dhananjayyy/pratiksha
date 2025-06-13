@@ -13,10 +13,41 @@ collections:
       fields:
         - { label: "Title", name: "title", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }
+        - { label: "Introduction", name: "introduction", widget: "text" }
         - { label: "Body", name: "body", widget: "markdown"}
-        - label: 'Cats'
-          name: "cats"
+        - label: 'Skills'
+          name: "skills"
           widget: list
           fields:
             - { label: "Name", name: "name", widget: "string"}
             - { label: "Description", name: "description", widget: "text"}
+    - label: "Projects"
+      name: "projects"
+      file: "content/projects.md"
+      fields:
+        - { label: "Title", name: "title", widget: "string"}
+        - { label: "Subtitle", name: "subtitle", widget: "string" }
+        - { label: "Body", name: "body", widget: "markdown"}
+        - label: 'Project List'
+          name: "projectList"
+          widget: list
+          fields:
+            - { label: "Title", name: "title", widget: "string"}
+            - { label: "Description", name: "description", widget: "text"}
+            - { label: "Image", name: "image", widget: "image", required: false }
+            - { label: "Link", name: "link", widget: "string", required: false }
+    - label: "Music"
+      name: "music"
+      file: "content/music.md"
+      fields:
+        - { label: "Title", name: "title", widget: "string"}
+        - { label: "Subtitle", name: "subtitle", widget: "string" }
+        - { label: "Body", name: "body", widget: "markdown"}
+        - label: 'Performances'
+          name: "performances"
+          widget: list
+          fields:
+            - { label: "Venue", name: "venue", widget: "string"}
+            - { label: "Date", name: "date", widget: "datetime" }
+            - { label: "Description", name: "description", widget: "text"}
+            - { label: "Image", name: "image", widget: "image", required: false }
